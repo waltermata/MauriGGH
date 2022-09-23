@@ -7,9 +7,11 @@
 
 ![DFD 1.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD1.png?raw=true)
 * *1.3 Prueba de escritorio*
-> |Entrada|Salida|
-> |:---:|:---:|
-> ||Mauricio|
+
+|Entrada|Salida|
+|:---:|:---:|
+||Mauricio|
+
 ### Ejercicio 2.- Escribe un algoritmo que escriba el día que es hoy
 ####
 * *2.1 Análisis*
@@ -17,9 +19,11 @@
 
 ![DFD 2.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD2.png?raw=true)
 * *2.3 Prueba de escritorio*
-> |Entrada|Salida|
-> |---|:---:|
-> ||Miércoles|
+
+|Entrada|Salida|
+|------|---|
+|  - |Miércoles|
+
 ### Ejercicio 3.- Hola "nombre"
 ####
 * *3.1 Análisis*
